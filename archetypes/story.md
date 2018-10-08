@@ -4,7 +4,7 @@ date = {{ .Date }}
 author = Tomáš
 image = "img/portfolio/a4-paper.jpg"
 showonlyimage = false
-categories = [ "" ]
+categories = [ "story" ]
 members = [ "" ]
 weight = 1
 +++
