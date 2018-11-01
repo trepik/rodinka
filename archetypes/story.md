@@ -2,9 +2,10 @@
 title = "{{ replace .Name "-" " " | title }}"
 date = {{ .Date }}
 author = Tomáš
-image = "img/portfolio/a4-paper.jpg"
+image = "img/.jpg"
 showonlyimage = false
 categories = [ "story" ]
+tags = [ "" ]
 members = [ "" ]
 weight = 1
 +++
