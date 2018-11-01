@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Repíkov blog</title>
+    <title>Tags on Repíkovci</title>
     <link>https://repik.sk/rodinka/tags/</link>
-    <description>Recent content in Tags on Repíkov blog</description>
+    <description>Recent content in Tags on Repíkovci</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sk</language>
-    <copyright>repik.sk</copyright>
+    <language>sk-SK</language>
     
 	<atom:link href="https://repik.sk/rodinka/tags/index.xml" rel="self" type="application/rss+xml" />
     

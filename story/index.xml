@@ -1,24 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Stories on Repíkov blog</title>
+    <title>Stories on Repíkovci</title>
     <link>https://repik.sk/rodinka/story/</link>
-    <description>Recent content in Stories on Repíkov blog</description>
+    <description>Recent content in Stories on Repíkovci</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sk</language>
-    <copyright>repik.sk</copyright>
-    <lastBuildDate>Sat, 21 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <language>sk-SK</language>
     
 	<atom:link href="https://repik.sk/rodinka/story/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>O stránke</title>
-      <link>https://repik.sk/rodinka/story/a5/</link>
-      <pubDate>Sat, 21 Jul 2018 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://repik.sk/rodinka/story/wtcr-a-etrc-na-slovakiaringu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://repik.sk/rodinka/story/a5/</guid>
-      <description>Tento blog je vlastne online kronika nešej rodinky. Píšeme sem krátke zápisky z nášho každodenného života. Pridávame obrázky pre zvedavých starých rodičov či kamarátov. Robíme to aj pre nás samých, aby sme mali na staré kolená v čom listovať a na čo spomínať.</description>
+      <guid>https://repik.sk/rodinka/story/wtcr-a-etrc-na-slovakiaringu/</guid>
+      <description></description>
     </item>
     
   </channel>
