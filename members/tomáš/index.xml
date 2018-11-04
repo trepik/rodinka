@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Repíkovci</title>
-    <link>https://repik.sk/rodinka/</link>
-    <description>Recent content on Repíkovci</description>
+    <title>Tomáš on Repíkovci</title>
+    <link>https://repik.sk/rodinka/members/tom%C3%A1%C5%A1/</link>
+    <description>Recent content in Tomáš on Repíkovci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sk-SK</language>
     <lastBuildDate>Sun, 04 Nov 2018 21:44:07 +0100</lastBuildDate>
     
-	<atom:link href="https://repik.sk/rodinka/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://repik.sk/rodinka/members/tom%C3%A1%C5%A1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -29,15 +29,6 @@
       <guid>https://repik.sk/rodinka/flash/18-08-08/</guid>
       <description>Sviečková vždy poteší, vďaka babička.
 Odkaz na f1.sk</description>
-    </item>
-    
-    <item>
-      <title>O stránke</title>
-      <link>https://repik.sk/rodinka/about/</link>
-      <pubDate>Mon, 08 Oct 2018 19:55:00 +0200</pubDate>
-      
-      <guid>https://repik.sk/rodinka/about/</guid>
-      <description>Tento blog je vlastne online kronika nešej rodinky. Píšeme sem krátke zápisky z nášho každodenného života. Pridávame obrázky pre zvedavých starých rodičov či kamarátov. Robíme to aj pre nás samých, aby sme mali na staré kolená v čom listovať a na čo spomínať.</description>
     </item>
     
   </channel>

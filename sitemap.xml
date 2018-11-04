@@ -3,8 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://repik.sk/rodinka/about/</loc>
-    <lastmod>2018-10-08T19:55:00+02:00</lastmod>
+    <loc>https://repik.sk/rodinka/story/wtcr-a-etrc-na-slovakiaringu/</loc>
+    <lastmod>2018-11-04T21:44:07+01:00</lastmod>
   </url>
   
   <url>
@@ -14,15 +14,34 @@
   
   <url>
     <loc>https://repik.sk/rodinka/contact/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <lastmod>2018-11-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://repik.sk/rodinka/story/wtcr-a-etrc-na-slovakiaringu/</loc>
+    <loc>https://repik.sk/rodinka/about/</loc>
+    <lastmod>2018-10-08T19:55:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://repik.sk/rodinka/members/ane%C5%BEka/</loc>
+    <lastmod>2018-11-04T21:44:07+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://repik.sk/rodinka/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://repik.sk/rodinka/members/daniel/</loc>
+    <lastmod>2018-11-04T21:44:07+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://repik.sk/rodinka/categories/flash/</loc>
+    <lastmod>2018-08-08T22:16:16+02:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -33,18 +52,68 @@
   </url>
   
   <url>
+    <loc>https://repik.sk/rodinka/members/igor/</loc>
+    <lastmod>2018-11-04T21:44:07+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://repik.sk/rodinka/tags/jedlo/</loc>
+    <lastmod>2018-08-08T22:16:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://repik.sk/rodinka/members/</loc>
+    <lastmod>2018-11-04T21:44:07+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://repik.sk/rodinka/tags/preteky/</loc>
+    <lastmod>2018-11-04T21:44:07+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://repik.sk/rodinka/</loc>
-    <lastmod>2018-10-08T19:55:00+02:00</lastmod>
+    <lastmod>2018-11-04T21:44:07+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://repik.sk/rodinka/tags/slovakiaring/</loc>
+    <lastmod>2018-11-04T21:44:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://repik.sk/rodinka/story/</loc>
+    <lastmod>2018-11-04T21:44:07+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://repik.sk/rodinka/categories/story/</loc>
+    <lastmod>2018-11-04T21:44:07+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://repik.sk/rodinka/members/stra%C5%A5o/</loc>
+    <lastmod>2018-11-04T21:44:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://repik.sk/rodinka/tags/</loc>
+    <lastmod>2018-08-08T22:16:16+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://repik.sk/rodinka/members/tom%C3%A1%C5%A1/</loc>
+    <lastmod>2018-11-04T21:44:07+01:00</lastmod>
     <priority>0</priority>
   </url>
   

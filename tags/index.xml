@@ -6,9 +6,37 @@
     <description>Recent content in Tags on Repíkovci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sk-SK</language>
+    <lastBuildDate>Wed, 08 Aug 2018 22:16:16 +0200</lastBuildDate>
     
 	<atom:link href="https://repik.sk/rodinka/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Jedlo</title>
+      <link>https://repik.sk/rodinka/tags/jedlo/</link>
+      <pubDate>Wed, 08 Aug 2018 22:16:16 +0200</pubDate>
+      
+      <guid>https://repik.sk/rodinka/tags/jedlo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Preteky</title>
+      <link>https://repik.sk/rodinka/tags/preteky/</link>
+      <pubDate>Sun, 04 Nov 2018 21:44:07 +0100</pubDate>
+      
+      <guid>https://repik.sk/rodinka/tags/preteky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slovakiaring</title>
+      <link>https://repik.sk/rodinka/tags/slovakiaring/</link>
+      <pubDate>Sun, 04 Nov 2018 21:44:07 +0100</pubDate>
+      
+      <guid>https://repik.sk/rodinka/tags/slovakiaring/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

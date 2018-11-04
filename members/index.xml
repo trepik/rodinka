@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Members on Repíkovci</title>
+    <link>https://repik.sk/rodinka/members/</link>
+    <description>Recent content in Members on Repíkovci</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sk-SK</language>
+    <lastBuildDate>Sun, 04 Nov 2018 21:44:07 +0100</lastBuildDate>
+    
+	<atom:link href="https://repik.sk/rodinka/members/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anežka</title>
+      <link>https://repik.sk/rodinka/members/ane%C5%BEka/</link>
+      <pubDate>Sun, 04 Nov 2018 21:44:07 +0100</pubDate>
+      
+      <guid>https://repik.sk/rodinka/members/ane%C5%BEka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel</title>
+      <link>https://repik.sk/rodinka/members/daniel/</link>
+      <pubDate>Sun, 04 Nov 2018 21:44:07 +0100</pubDate>
+      
+      <guid>https://repik.sk/rodinka/members/daniel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Igor</title>
+      <link>https://repik.sk/rodinka/members/igor/</link>
+      <pubDate>Sun, 04 Nov 2018 21:44:07 +0100</pubDate>
+      
+      <guid>https://repik.sk/rodinka/members/igor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Straťo</title>
+      <link>https://repik.sk/rodinka/members/stra%C5%A5o/</link>
+      <pubDate>Sun, 04 Nov 2018 21:44:07 +0100</pubDate>
+      
+      <guid>https://repik.sk/rodinka/members/stra%C5%A5o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tomáš</title>
+      <link>https://repik.sk/rodinka/members/tom%C3%A1%C5%A1/</link>
+      <pubDate>Sun, 04 Nov 2018 21:44:07 +0100</pubDate>
+      
+      <guid>https://repik.sk/rodinka/members/tom%C3%A1%C5%A1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

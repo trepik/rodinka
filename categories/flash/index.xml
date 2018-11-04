@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Flashes on Repíkovci</title>
-    <link>https://repik.sk/rodinka/flash/</link>
-    <description>Recent content in Flashes on Repíkovci</description>
+    <title>Flash on Repíkovci</title>
+    <link>https://repik.sk/rodinka/categories/flash/</link>
+    <description>Recent content in Flash on Repíkovci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sk-SK</language>
     <lastBuildDate>Wed, 08 Aug 2018 22:16:16 +0200</lastBuildDate>
     
-	<atom:link href="https://repik.sk/rodinka/flash/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://repik.sk/rodinka/categories/flash/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
