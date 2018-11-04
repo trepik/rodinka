@@ -6,8 +6,12 @@ languageCode = "sk-SK"
 disqusShortname = "repikovci-rodinny-blog.disqus.com"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-preserveTaxonomyNames = true
 paginate = 5
+
+[taxonomies]
+  category = "categories"
+  member = "members"
+  tag = "tags"
 
 [params]
   # Unmark to use post folder for images. Default is static folder.
