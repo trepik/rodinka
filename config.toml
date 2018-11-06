@@ -15,7 +15,6 @@ paginate = 5
 
 [params]
   # Unmark to use post folder for images. Default is static folder.
-  usepostimgfolder = true
   slogan = "rodinný blog"
   description = "Rodinný blog Daniela, Anežky a Tomáša Repíkových." # meta description
   # You need to set author to have an author bio. If you have a writer in the markdown file it will override this.
@@ -45,14 +44,9 @@ paginate = 5
 
   # Nav links in the side bar
   [[menu.main]]
-  name = "Domov"
-  url = "/"
-  weight = 1
-
-  [[menu.main]]
   name = "O stránke"
   url = "about/"
-  weight = 2
+  weight = 1
 
 # this will also be in author bio if there is no writer.
   [params.social]
