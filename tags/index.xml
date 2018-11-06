@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Repíkovci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sk-SK</language>
-    <lastBuildDate>Wed, 08 Aug 2018 22:16:16 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 Aug 2018 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://repik.sk/rodinka/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Jedlo</title>
       <link>https://repik.sk/rodinka/tags/jedlo/</link>
-      <pubDate>Wed, 08 Aug 2018 22:16:16 +0200</pubDate>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0200</pubDate>
       
       <guid>https://repik.sk/rodinka/tags/jedlo/</guid>
       <description></description>
@@ -30,11 +30,29 @@
     </item>
     
     <item>
+      <title>Rastiem</title>
+      <link>https://repik.sk/rodinka/tags/rastiem/</link>
+      <pubDate>Sat, 21 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://repik.sk/rodinka/tags/rastiem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Slovakiaring</title>
       <link>https://repik.sk/rodinka/tags/slovakiaring/</link>
       <pubDate>Sun, 04 Nov 2018 21:44:07 +0100</pubDate>
       
       <guid>https://repik.sk/rodinka/tags/slovakiaring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Úsmev</title>
+      <link>https://repik.sk/rodinka/tags/%C3%BAsmev/</link>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://repik.sk/rodinka/tags/%C3%BAsmev/</guid>
       <description></description>
     </item>
     
