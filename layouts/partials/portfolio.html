@@ -1,8 +1,8 @@
 <h1 class="screen-reader-text">Posts</h1>
 
 <div id="loop-container" class="loop-container">
-	{{ $paginator := .Paginate (where (where .Site.Pages "Type" "flash") "IsPage" true) }}
-	{{ range $index, $element := .Paginator.Pages }}
+	{{ $paginator := .Paginate (where (where .Site.Pages "Section" "in" (slice "flash" "story") ) "IsPage" true) }}
+	{{ range $index, $element := .Paginator.Pages.ByDate.Reverse }}
   {{ $scratch := newScratch }}
   {{ if .Site.Params.writers }}
     {{ $scratch.Set "writer" (index .Site.Params.writers (lower .Params.writer) | default dict) }}
@@ -48,7 +48,7 @@
 						{{ range .Params.categories }}
 						<span> / </span>
 						<span class="category">
-							<a href="/categories{{ . | relURL }}">{{ . }}</a>
+							<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
 						</span>
 						{{ end }}
 					</div>
@@ -57,13 +57,15 @@
 							<a href="{{ .Permalink }} "> {{ .Title }} </a>
 						</h2>
 					</div>
+					{{ if gt (len .Summary) 0 }}
 					<div class='excerpt-content'>
 						<article>
 							{{ .Summary }}
 
-							<div class="more-link-wrapper"><a class="more-link" href="{{ .Permalink }}">Read the post<span class="screen-reader-text">This is a Standard Post</span></a></div>
+							<div class="more-link-wrapper"><a class="more-link" href="{{ .Permalink }}">Čítaj ďalej<span class="screen-reader-text">This is a Standard Post</span></a></div>
 						</article>
 					</div>
+					{{ end }}
 				</div>
 			</div>
 			{{ end }}
