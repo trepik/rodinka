@@ -14,6 +14,7 @@ paginate = 5
   tag = "tags"
 
 [params]
+  mainTypes = [ "flash", "story" ]
   # Unmark to use post folder for images. Default is static folder.
   slogan = "rodinný blog"
   description = "Rodinný blog Daniela, Anežky a Tomáša Repíkových." # meta description
@@ -63,6 +64,11 @@ paginate = 5
 
 # Add a writer, then use it in the markdown front matter like this: writer = "Lukas Herman"
   [params.writers]
+    [params.writers."Tomáš"]
+    link = "https://repik.sk/tomas"
+    email = "tomm.momi@gmail.com"
+    bio = [ "Manžel, otec a zakladateľ rodinného blogu." ]
+
     [params.writers."Anežka"]
     email = "anezka.nagyova@gmail.com"
     bio = [ "Manželka, mama a pani doktorka." ]
