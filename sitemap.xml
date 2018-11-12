@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://repik.sk/rodinka/flash/18-11-11/</loc>
+    <lastmod>2018-11-11T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://repik.sk/rodinka/contact/</loc>
     <lastmod>2018-11-04T00:00:00+00:00</lastmod>
   </url>
@@ -51,13 +56,13 @@
   
   <url>
     <loc>https://repik.sk/rodinka/categories/flash/</loc>
-    <lastmod>2018-08-08T00:00:00+02:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://repik.sk/rodinka/flash/</loc>
-    <lastmod>2018-08-08T00:00:00+02:00</lastmod>
+    <lastmod>2018-11-11T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -76,6 +81,12 @@
   <url>
     <loc>https://repik.sk/rodinka/members/</loc>
     <lastmod>2018-07-15T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://repik.sk/rodinka/tags/narodeniny/</loc>
+    <lastmod>2018-11-11T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
