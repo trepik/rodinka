@@ -938,7 +938,7 @@ a img {
   color: var(--gray);
 }
 .pagination a:hover, .pagination:active, .pagination:focus {
-  color: var(--gray);
+  color: var(--complementary);
 }
 
 .infinite-scroll .pagination {
