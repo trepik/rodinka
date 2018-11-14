@@ -6,17 +6,35 @@
     <description>Recent content in Tags on Repíkovci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sk-SK</language>
-    <lastBuildDate>Wed, 08 Aug 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 14 Nov 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://repik.sk/rodinka/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Detičky</title>
+      <link>https://repik.sk/rodinka/tags/deti%C4%8Dky/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://repik.sk/rodinka/tags/deti%C4%8Dky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jedlo</title>
       <link>https://repik.sk/rodinka/tags/jedlo/</link>
-      <pubDate>Wed, 08 Aug 2018 00:00:00 +0200</pubDate>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>https://repik.sk/rodinka/tags/jedlo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mamičky</title>
+      <link>https://repik.sk/rodinka/tags/mami%C4%8Dky/</link>
+      <pubDate>Wed, 14 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://repik.sk/rodinka/tags/mami%C4%8Dky/</guid>
       <description></description>
     </item>
     
@@ -26,6 +44,15 @@
       <pubDate>Sun, 11 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>https://repik.sk/rodinka/tags/narodeniny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nočník</title>
+      <link>https://repik.sk/rodinka/tags/no%C4%8Dn%C3%ADk/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://repik.sk/rodinka/tags/no%C4%8Dn%C3%ADk/</guid>
       <description></description>
     </item>
     
@@ -53,6 +80,15 @@
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0200</pubDate>
       
       <guid>https://repik.sk/rodinka/tags/slovakiaring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tekvica</title>
+      <link>https://repik.sk/rodinka/tags/tekvica/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://repik.sk/rodinka/tags/tekvica/</guid>
       <description></description>
     </item>
     
