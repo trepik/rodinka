@@ -3,7 +3,7 @@ title = "Repíkovci"
 theme = "nederburg"
 languageCode = "sk-SK"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "repikovci-rodinny-blog.disqus.com"
+disqusShortname = "repikovci-rodinny-blog"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 paginate = 5
