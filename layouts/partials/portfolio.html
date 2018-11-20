@@ -1,8 +1,8 @@
 <h1 class="screen-reader-text">Posts</h1>
 
 <div id="loop-container" class="loop-container">
-	{{ $paginator := .Paginate (where (where .Site.Pages "Section" "in" (slice "flash" "story") ) "IsPage" true) }}
-	{{ range $index, $element := .Paginator.Pages.ByDate.Reverse }}
+	{{ $paginator := .Paginate (where (where .Site.Pages.ByDate.Reverse "Section" "in" (slice "flash" "story") ) "IsPage" true) }}
+	{{ range $index, $element := $paginator.Pages }}
   {{ $scratch := newScratch }}
   {{ if .Site.Params.writers }}
     {{ $scratch.Set "writer" (index .Site.Params.writers (lower .Params.writer) | default dict) }}
