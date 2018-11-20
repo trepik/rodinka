@@ -13,6 +13,16 @@
   </url>
   
   <url>
+    <loc>https://repik.sk/rodinka/flash/18-11-19/</loc>
+    <lastmod>2018-11-19T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://repik.sk/rodinka/flash/18-11-18/</loc>
+    <lastmod>2018-11-18T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://repik.sk/rodinka/flash/18-11-14/</loc>
     <lastmod>2018-11-14T00:00:00+01:00</lastmod>
   </url>
@@ -99,7 +109,7 @@
   </url>
   
   <url>
-    <loc>https://repik.sk/rodinka/members/hanka/</loc>
+    <loc>https://repik.sk/rodinka/members/hanky/</loc>
     <lastmod>2018-11-14T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -113,6 +123,12 @@
   <url>
     <loc>https://repik.sk/rodinka/tags/jedlo/</loc>
     <lastmod>2018-11-03T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://repik.sk/rodinka/tags/k%C3%BApanie/</loc>
+    <lastmod>2018-11-19T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -154,7 +170,7 @@
   
   <url>
     <loc>https://repik.sk/rodinka/tags/rastiem/</loc>
-    <lastmod>2018-07-21T00:00:00+02:00</lastmod>
+    <lastmod>2018-11-18T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -167,6 +183,12 @@
   <url>
     <loc>https://repik.sk/rodinka/tags/slovakiaring/</loc>
     <lastmod>2018-07-15T00:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://repik.sk/rodinka/tags/star%C3%BD-rodi%C4%8Dia/</loc>
+    <lastmod>2018-11-20T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
