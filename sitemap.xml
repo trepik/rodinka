@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://repik.sk/rodinka/flash/18-11-20/</loc>
+    <lastmod>2018-11-20T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://repik.sk/rodinka/flash/18-11-14/</loc>
     <lastmod>2018-11-14T00:00:00+01:00</lastmod>
   </url>
@@ -76,14 +81,20 @@
   </url>
   
   <url>
+    <loc>https://repik.sk/rodinka/members/d%C3%A1%C5%A1a/</loc>
+    <lastmod>2018-11-20T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://repik.sk/rodinka/categories/flash/</loc>
-    <lastmod>2018-11-14T00:00:00+01:00</lastmod>
+    <lastmod>2018-11-20T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://repik.sk/rodinka/flash/</loc>
-    <lastmod>2018-11-14T00:00:00+01:00</lastmod>
+    <lastmod>2018-11-20T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -126,6 +137,12 @@
   <url>
     <loc>https://repik.sk/rodinka/tags/no%C4%8Dn%C3%ADk/</loc>
     <lastmod>2018-11-08T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://repik.sk/rodinka/tags/n%C3%A1v%C5%A1teva/</loc>
+    <lastmod>2018-11-20T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -191,7 +208,7 @@
   
   <url>
     <loc>https://repik.sk/rodinka/tags/%C3%BAsmev/</loc>
-    <lastmod>2018-07-24T00:00:00+02:00</lastmod>
+    <lastmod>2018-11-20T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
