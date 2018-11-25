@@ -60,7 +60,9 @@
 					{{ if gt (len .Summary) 0 }}
 					<div class='excerpt-content'>
 						<article>
+							{{ if eq .Section "story" }}
 							{{ .Summary }}
+							{{ end }}
 
 							<div class="more-link-wrapper"><a class="more-link" href="{{ .Permalink }}">Čítaj ďalej<span class="screen-reader-text">This is a Standard Post</span></a></div>
 						</article>
