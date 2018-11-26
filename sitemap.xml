@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://repik.sk/rodinka/flash/18-11-26/</loc>
+    <lastmod>2018-11-26T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://repik.sk/rodinka/flash/18-11-24/</loc>
     <lastmod>2018-11-24T00:00:00+01:00</lastmod>
   </url>
@@ -89,6 +94,12 @@
   </url>
   
   <url>
+    <loc>https://repik.sk/rodinka/tags/choroba/</loc>
+    <lastmod>2018-11-26T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://repik.sk/rodinka/members/daniel/</loc>
     <lastmod>2018-07-15T00:00:00+02:00</lastmod>
     <priority>0</priority>
@@ -114,13 +125,13 @@
   
   <url>
     <loc>https://repik.sk/rodinka/categories/flash/</loc>
-    <lastmod>2018-11-24T00:00:00+01:00</lastmod>
+    <lastmod>2018-11-26T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://repik.sk/rodinka/flash/</loc>
-    <lastmod>2018-11-24T00:00:00+01:00</lastmod>
+    <lastmod>2018-11-26T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -197,6 +208,12 @@
   </url>
   
   <url>
+    <loc>https://repik.sk/rodinka/tags/pr%C3%A1%C4%8Dka/</loc>
+    <lastmod>2018-11-26T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://repik.sk/rodinka/tags/rastiem/</loc>
     <lastmod>2018-11-18T00:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -217,6 +234,12 @@
   <url>
     <loc>https://repik.sk/rodinka/tags/smeti/</loc>
     <lastmod>2018-11-07T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://repik.sk/rodinka/tags/sopl%C3%ADk/</loc>
+    <lastmod>2018-11-26T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -246,7 +269,7 @@
   
   <url>
     <loc>https://repik.sk/rodinka/tags/</loc>
-    <lastmod>2018-11-14T00:00:00+01:00</lastmod>
+    <lastmod>2018-11-26T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
