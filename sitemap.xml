@@ -8,6 +8,16 @@
   </url>
   
   <url>
+    <loc>https://repik.sk/rodinka/flash/18-12-03/</loc>
+    <lastmod>2018-12-03T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://repik.sk/rodinka/story/danielove-prve-snehove-radovanky/</loc>
+    <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://repik.sk/rodinka/flash/18-11-29/</loc>
     <lastmod>2018-11-29T00:00:00+01:00</lastmod>
   </url>
@@ -135,13 +145,13 @@
   
   <url>
     <loc>https://repik.sk/rodinka/categories/flash/</loc>
-    <lastmod>2018-11-29T00:00:00+01:00</lastmod>
+    <lastmod>2018-12-03T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://repik.sk/rodinka/flash/</loc>
-    <lastmod>2018-11-29T00:00:00+01:00</lastmod>
+    <lastmod>2018-12-03T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -207,7 +217,7 @@
   
   <url>
     <loc>https://repik.sk/rodinka/tags/objavovanie/</loc>
-    <lastmod>2018-11-28T00:00:00+01:00</lastmod>
+    <lastmod>2018-12-03T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -254,6 +264,12 @@
   </url>
   
   <url>
+    <loc>https://repik.sk/rodinka/tags/sneh/</loc>
+    <lastmod>2018-12-01T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://repik.sk/rodinka/tags/sopl%C3%ADk/</loc>
     <lastmod>2018-11-26T00:00:00+01:00</lastmod>
     <priority>0</priority>
@@ -262,6 +278,12 @@
   <url>
     <loc>https://repik.sk/rodinka/tags/star%C3%BD-rodi%C4%8Dia/</loc>
     <lastmod>2018-11-20T00:00:00+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://repik.sk/rodinka/tags/stoj%C3%ADm/</loc>
+    <lastmod>2018-12-03T00:00:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
