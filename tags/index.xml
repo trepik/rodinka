@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Repíkovci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sk-SK</language>
-    <lastBuildDate>Mon, 26 Nov 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 16 Dec 2018 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://repik.sk/rodinka/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Brno</title>
+      <link>https://repik.sk/rodinka/tags/brno/</link>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://repik.sk/rodinka/tags/brno/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Choroba</title>
@@ -75,6 +84,15 @@
     </item>
     
     <item>
+      <title>Marianka</title>
+      <link>https://repik.sk/rodinka/tags/marianka/</link>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://repik.sk/rodinka/tags/marianka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Narodeniny</title>
       <link>https://repik.sk/rodinka/tags/narodeniny/</link>
       <pubDate>Sun, 11 Nov 2018 00:00:00 +0100</pubDate>
@@ -120,6 +138,15 @@
     </item>
     
     <item>
+      <title>Pečenie</title>
+      <link>https://repik.sk/rodinka/tags/pe%C4%8Denie/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://repik.sk/rodinka/tags/pe%C4%8Denie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Preteky</title>
       <link>https://repik.sk/rodinka/tags/preteky/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0200</pubDate>
@@ -140,7 +167,7 @@
     <item>
       <title>Rastiem</title>
       <link>https://repik.sk/rodinka/tags/rastiem/</link>
-      <pubDate>Sun, 18 Nov 2018 00:00:00 +0100</pubDate>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0100</pubDate>
       
       <guid>https://repik.sk/rodinka/tags/rastiem/</guid>
       <description></description>
@@ -167,7 +194,7 @@
     <item>
       <title>Sneh</title>
       <link>https://repik.sk/rodinka/tags/sneh/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 15 Dec 2018 00:00:00 +0100</pubDate>
       
       <guid>https://repik.sk/rodinka/tags/sneh/</guid>
       <description></description>
@@ -201,11 +228,29 @@
     </item>
     
     <item>
+      <title>Sviečková</title>
+      <link>https://repik.sk/rodinka/tags/svie%C4%8Dkov%C3%A1/</link>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://repik.sk/rodinka/tags/svie%C4%8Dkov%C3%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tekvica</title>
       <link>https://repik.sk/rodinka/tags/tekvica/</link>
       <pubDate>Sat, 03 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>https://repik.sk/rodinka/tags/tekvica/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vianoce</title>
+      <link>https://repik.sk/rodinka/tags/vianoce/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://repik.sk/rodinka/tags/vianoce/</guid>
       <description></description>
     </item>
     

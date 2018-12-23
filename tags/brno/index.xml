@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brno on Repíkovci</title>
+    <link>https://repik.sk/rodinka/tags/brno/</link>
+    <description>Recent content in Brno on Repíkovci</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sk-SK</language>
+    <lastBuildDate>Sun, 16 Dec 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://repik.sk/rodinka/tags/brno/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>U Fodorovcov v Brne bolo veselo</title>
+      <link>https://repik.sk/rodinka/story/u-fodorovcov-v-brne-bolo-veselo/</link>
+      <pubDate>Sun, 16 Dec 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://repik.sk/rodinka/story/u-fodorovcov-v-brne-bolo-veselo/</guid>
+      <description>&lt;p&gt;Návšteva Brna pred koncom roka sa stáva tradíciou, a Fodorovci nám opäť ponúkli azyl.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
