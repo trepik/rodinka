@@ -8,7 +8,7 @@ tags = [ "Brno", "sviečková" ]
 members = [ "Daniel", "Anežka", "Hanky", "Tomáš", "Fodorovci" ]
 +++
 
-Návšteva Brna pred koncom roka sa stáva tradíciou, a Fodorovci nám opäť ponúkli azyl.
+Návšteva Brna pred koncom roka sa stáva tradíciou a Fodorovci nám opäť ponúkli azyl.
 
 <!--more-->
 
