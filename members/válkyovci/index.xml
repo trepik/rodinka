@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Válkyovci on Repíkovci</title>
+    <link>https://repik.sk/rodinka/members/v%C3%A1lkyovci/</link>
+    <description>Recent content in Válkyovci on Repíkovci</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sk-SK</language>
+    <lastBuildDate>Thu, 25 Apr 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://repik.sk/rodinka/members/v%C3%A1lkyovci/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Oslavujeme rok s Repíkovcami a Válkyovcami</title>
+      <link>https://repik.sk/rodinka/story/oslavujeme-rok-s-repikovcami-a-valkyovcami/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://repik.sk/rodinka/story/oslavujeme-rok-s-repikovcami-a-valkyovcami/</guid>
+      <description>&lt;p&gt;Prvý Danielov rok sme oslávali aj so starými a starými-krstnými rodičmi.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
