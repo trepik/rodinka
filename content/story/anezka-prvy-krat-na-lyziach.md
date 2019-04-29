@@ -4,7 +4,7 @@ date = 2019-01-12
 author = "Tomáš"
 image = "img/190112.jpg"
 categories = [ "story" ]
-tags = [ "lyzovacka", "sneh" ]
+tags = [ "lyžovačka", "sneh" ]
 members = [ "Anežka", "Daniel", "Tomáš" ]
 +++
 
