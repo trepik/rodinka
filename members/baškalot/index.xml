@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baškalot on Repíkovci</title>
+    <link>https://repik.sk/rodinka/members/ba%C5%A1kalot/</link>
+    <description>Recent content in Baškalot on Repíkovci</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sk-SK</language>
+    <lastBuildDate>Mon, 22 Apr 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://repik.sk/rodinka/members/ba%C5%A1kalot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Danielova prvá šibačka</title>
+      <link>https://repik.sk/rodinka/story/danielova-prva-sibacka/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://repik.sk/rodinka/story/danielova-prva-sibacka/</guid>
+      <description>&lt;p&gt;Fotiek menej zážitkov kopec.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Grilovačka v Jahodníku u Bašky&amp;Lota</title>
+      <link>https://repik.sk/rodinka/flash/19-04-20/</link>
+      <pubDate>Sat, 20 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://repik.sk/rodinka/flash/19-04-20/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

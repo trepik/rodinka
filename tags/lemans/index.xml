@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lemans on Repíkovci</title>
+    <link>https://repik.sk/rodinka/tags/lemans/</link>
+    <description>Recent content in Lemans on Repíkovci</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>sk-SK</language>
+    <lastBuildDate>Sun, 05 May 2019 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://repik.sk/rodinka/tags/lemans/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Placky v Bory Mall</title>
+      <link>https://repik.sk/rodinka/story/placky-v-bory-mall/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://repik.sk/rodinka/story/placky-v-bory-mall/</guid>
+      <description>&lt;p&gt;Prezentácia tímu ARC Bratislava pred 24h v LeMans.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
