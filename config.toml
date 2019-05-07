@@ -6,7 +6,7 @@ languageCode = "sk-SK"
 disqusShortname = "repikovci-rodinny-blog"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
-paginate = 5
+paginate = 10
 
 [taxonomies]
   category = "categories"
