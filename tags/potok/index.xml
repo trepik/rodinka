@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Potok on Repíkovci</title>
+    <title>potok on Repíkovci</title>
     <link>https://repik.sk/rodinka/tags/potok/</link>
-    <description>Recent content in Potok on Repíkovci</description>
+    <description>Recent content in potok on Repíkovci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sk-SK</language>
-    <lastBuildDate>Sat, 16 Feb 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://repik.sk/rodinka/tags/potok/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dovolenka v Lutzmansburgu: Baby on tour</title>
+      <link>https://repik.sk/rodinka/story/dovolenka-v-lutzmansburgu-baby-on-tour/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://repik.sk/rodinka/story/dovolenka-v-lutzmansburgu-baby-on-tour/</guid>
+      <description>&lt;p&gt;Po upršanej ceste sme v Lutzmansburgu boli na krásnej prechádzke.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Daniel brodí Marianský potok</title>

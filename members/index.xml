@@ -6,7 +6,7 @@
     <description>Recent content in Members on Repíkovci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sk-SK</language>
-    <lastBuildDate>Sun, 15 Jul 2018 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://repik.sk/rodinka/members/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,36 +14,63 @@
     <item>
       <title>Anežka</title>
       <link>https://repik.sk/rodinka/members/ane%C5%BEka/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0200</pubDate>
       
       <guid>https://repik.sk/rodinka/members/ane%C5%BEka/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Baškalot</title>
-      <link>https://repik.sk/rodinka/members/ba%C5%A1kalot/</link>
-      <pubDate>Mon, 22 Apr 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://repik.sk/rodinka/members/ba%C5%A1kalot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Daniel</title>
       <link>https://repik.sk/rodinka/members/daniel/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0200</pubDate>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0200</pubDate>
       
       <guid>https://repik.sk/rodinka/members/daniel/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Tomáš</title>
+      <link>https://repik.sk/rodinka/members/tom%C3%A1%C5%A1/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://repik.sk/rodinka/members/tom%C3%A1%C5%A1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dáša</title>
       <link>https://repik.sk/rodinka/members/d%C3%A1%C5%A1a/</link>
-      <pubDate>Thu, 25 Apr 2019 00:00:00 +0200</pubDate>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0200</pubDate>
       
       <guid>https://repik.sk/rodinka/members/d%C3%A1%C5%A1a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Igor</title>
+      <link>https://repik.sk/rodinka/members/igor/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://repik.sk/rodinka/members/igor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Válkyovci</title>
+      <link>https://repik.sk/rodinka/members/v%C3%A1lkyovci/</link>
+      <pubDate>Thu, 25 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://repik.sk/rodinka/members/v%C3%A1lkyovci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baška&amp;Lot</title>
+      <link>https://repik.sk/rodinka/members/ba%C5%A1kalot/</link>
+      <pubDate>Mon, 22 Apr 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://repik.sk/rodinka/members/ba%C5%A1kalot/</guid>
       <description></description>
     </item>
     
@@ -66,15 +93,6 @@
     </item>
     
     <item>
-      <title>Igor</title>
-      <link>https://repik.sk/rodinka/members/igor/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://repik.sk/rodinka/members/igor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lucia</title>
       <link>https://repik.sk/rodinka/members/lucia/</link>
       <pubDate>Mon, 11 Feb 2019 00:00:00 +0100</pubDate>
@@ -84,38 +102,20 @@
     </item>
     
     <item>
-      <title>Straťo</title>
-      <link>https://repik.sk/rodinka/members/stra%C5%A5o/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://repik.sk/rodinka/members/stra%C5%A5o/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tomáš</title>
-      <link>https://repik.sk/rodinka/members/tom%C3%A1%C5%A1/</link>
-      <pubDate>Sun, 15 Jul 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://repik.sk/rodinka/members/tom%C3%A1%C5%A1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Válkyovci</title>
-      <link>https://repik.sk/rodinka/members/v%C3%A1lkyovci/</link>
-      <pubDate>Thu, 25 Apr 2019 00:00:00 +0200</pubDate>
-      
-      <guid>https://repik.sk/rodinka/members/v%C3%A1lkyovci/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Zdenka</title>
       <link>https://repik.sk/rodinka/members/zdenka/</link>
       <pubDate>Mon, 11 Feb 2019 00:00:00 +0100</pubDate>
       
       <guid>https://repik.sk/rodinka/members/zdenka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Straťo</title>
+      <link>https://repik.sk/rodinka/members/stra%C5%A5o/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://repik.sk/rodinka/members/stra%C5%A5o/</guid>
       <description></description>
     </item>
     

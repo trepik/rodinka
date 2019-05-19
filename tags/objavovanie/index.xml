@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Objavovanie on Repíkovci</title>
+    <title>objavovanie on Repíkovci</title>
     <link>https://repik.sk/rodinka/tags/objavovanie/</link>
-    <description>Recent content in Objavovanie on Repíkovci</description>
+    <description>Recent content in objavovanie on Repíkovci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sk-SK</language>
-    <lastBuildDate>Tue, 07 May 2019 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://repik.sk/rodinka/tags/objavovanie/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Dovolenka v Lutzmansburgu: Baby on tour</title>
+      <link>https://repik.sk/rodinka/story/dovolenka-v-lutzmansburgu-baby-on-tour/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://repik.sk/rodinka/story/dovolenka-v-lutzmansburgu-baby-on-tour/</guid>
+      <description>&lt;p&gt;Po upršanej ceste sme v Lutzmansburgu boli na krásnej prechádzke.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prechádzka za havinami a bágrom so starými rodičmi</title>
+      <link>https://repik.sk/rodinka/flash/19-05-08/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://repik.sk/rodinka/flash/19-05-08/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Daniel ako dospelák za stolom</title>
@@ -35,7 +53,7 @@
       <pubDate>Mon, 03 Dec 2018 00:00:00 +0100</pubDate>
       
       <guid>https://repik.sk/rodinka/flash/18-12-03/</guid>
-      <description>  Daniel sa vie aj postaviť  </description>
+      <description></description>
     </item>
     
     <item>
@@ -53,7 +71,7 @@
       <pubDate>Wed, 28 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>https://repik.sk/rodinka/flash/18-11-28/</guid>
-      <description>  Objavovať nové veci to je Danielove  </description>
+      <description></description>
     </item>
     
   </channel>

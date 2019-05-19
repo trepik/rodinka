@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Starý Rodičia on Repíkovci</title>
+    <title>starý rodičia on Repíkovci</title>
     <link>https://repik.sk/rodinka/tags/star%C3%BD-rodi%C4%8Dia/</link>
-    <description>Recent content in Starý Rodičia on Repíkovci</description>
+    <description>Recent content in starý rodičia on Repíkovci</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>sk-SK</language>
-    <lastBuildDate>Tue, 20 Nov 2018 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2019 00:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://repik.sk/rodinka/tags/star%C3%BD-rodi%C4%8Dia/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Prechádzka za havinami a bágrom so starými rodičmi</title>
+      <link>https://repik.sk/rodinka/flash/19-05-08/</link>
+      <pubDate>Wed, 08 May 2019 00:00:00 +0200</pubDate>
+      
+      <guid>https://repik.sk/rodinka/flash/19-05-08/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dnes sa Daniel zahral so starými rodičmi Dášou a Igorom</title>
@@ -17,7 +26,7 @@
       <pubDate>Tue, 20 Nov 2018 00:00:00 +0100</pubDate>
       
       <guid>https://repik.sk/rodinka/flash/18-11-20/</guid>
-      <description>  Dedko Igor Dankovi ukazuje bubon  </description>
+      <description></description>
     </item>
     
   </channel>
